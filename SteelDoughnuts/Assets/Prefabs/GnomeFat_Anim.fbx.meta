@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 35392d0a4ecf6a74baced5b97a6f0f98
+timeCreated: 1480599447
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard
+    100004: GnomeFat_IdleAnim:Rig_Gnome_Fat:Belt
+    100006: GnomeFat_IdleAnim:Rig_Gnome_Fat:Body
+    100008: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard
+    100010: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L
+    100012: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R
+    100014: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat
+    100016: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L
+    100018: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R
+    100020: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose
+    100022: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2
+    100024: GnomeFat_IdleAnim:Rig_Gnome_Fat:Hat
+    100026: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard
+    100028: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body
+    100030: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_EndL
+    100032: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_EndR
+    100034: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_L
+    100036: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_R
+    100038: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Foot_L
+    100040: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Foot_R
+    100042: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat
+    100044: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat_Tip
+    100046: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head
+    100048: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip
+    100050: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L
+    100052: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R
+    100054: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose
+    100056: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose_Tip
+    100058: GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_L
+    100060: GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_R
+    100062: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Beard
+    100064: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Body
+    100066: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Left
+    100068: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Right
+    100070: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Hat
+    100072: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Left
+    100074: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Right
+    100076: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Nose
+    100078: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Left
+    100080: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Right
+    100082: GnomeFat_IdleAnim:Rig_Gnome_Fat:Nose
+    400000: //RootNode
+    400002: GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard
+    400004: GnomeFat_IdleAnim:Rig_Gnome_Fat:Belt
+    400006: GnomeFat_IdleAnim:Rig_Gnome_Fat:Body
+    400008: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard
+    400010: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L
+    400012: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R
+    400014: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat
+    400016: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L
+    400018: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R
+    400020: GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose
+    400022: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2
+    400024: GnomeFat_IdleAnim:Rig_Gnome_Fat:Hat
+    400026: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard
+    400028: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body
+    400030: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_EndL
+    400032: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_EndR
+    400034: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_L
+    400036: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_R
+    400038: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Foot_L
+    400040: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Foot_R
+    400042: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat
+    400044: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat_Tip
+    400046: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head
+    400048: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip
+    400050: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L
+    400052: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R
+    400054: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose
+    400056: GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose_Tip
+    400058: GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_L
+    400060: GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_R
+    400062: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Beard
+    400064: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Body
+    400066: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Left
+    400068: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Right
+    400070: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Hat
+    400072: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Left
+    400074: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Right
+    400076: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Nose
+    400078: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Left
+    400080: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Right
+    400082: GnomeFat_IdleAnim:Rig_Gnome_Fat:Nose
+    2300000: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Beard
+    2300002: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Body
+    2300004: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Left
+    2300006: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Right
+    2300008: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Hat
+    2300010: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Left
+    2300012: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Right
+    2300014: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Nose
+    2300016: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Left
+    2300018: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Right
+    3300000: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Beard
+    3300002: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Body
+    3300004: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Left
+    3300006: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Right
+    3300008: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Hat
+    3300010: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Left
+    3300012: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Right
+    3300014: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Nose
+    3300016: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Left
+    3300018: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Right
+    4300000: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Left
+    4300002: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Right
+    4300004: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Nose
+    4300006: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Hat
+    4300008: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Left
+    4300010: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Right
+    4300012: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Beard
+    4300014: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Left
+    4300016: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Right
+    4300018: GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Body
+    7400000: Idle
+    7400002: Wiggle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:Belt
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:Body
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Beard
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Left
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Right
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_EndL
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Left
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_EndR
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Right
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat_Tip
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat_Tip/GnomeFat_IdleAnim:Rig_Gnome_Fat:Hat
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat_Tip/GnomeFat_IdleAnim:Rig_Gnome_Fat:Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Hat
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose_Tip
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:Nose
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Nose
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Foot_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Left
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Foot_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Right
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Wiggle
+      takeName: Take 001
+      firstFrame: 78
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:Belt
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:Body
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Beard
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Left
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Beard/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Stach_Right
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_EndL
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Left
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_EndR
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Brow_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Brow_Right
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat_Tip
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat_Tip/GnomeFat_IdleAnim:Rig_Gnome_Fat:Hat
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hat_Tip/GnomeFat_IdleAnim:Rig_Gnome_Fat:Hat/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Hat
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose_Tip
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:Nose
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Body/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Head/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:Nose/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Nose
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Foot_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_L
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_L/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Left
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Foot_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_R
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Hip/GnomeFat_IdleAnim:Rig_Gnome_Fat:J_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:CTR_Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:Leg_R/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Leg_Right
+        weight: 1
+      - path: GnomeFat_IdleAnim:Rig_Gnome_Fat:GnomeNorm_Rig_V2_0010:transform2/GnomeFat_IdleAnim:Rig_Gnome_Fat:Mesh_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

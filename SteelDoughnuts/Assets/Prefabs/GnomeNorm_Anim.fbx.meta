@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: ec27fc7454b5963418cd8dd94d6ac2f0
+timeCreated: 1480547224
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beard
+    100002: Belt
+    100004: Body
+    100006: CTR_Beard
+    100008: CTR_Hat
+    100010: CTR_Leg_L
+    100012: CTR_Leg_R
+    100014: CTR_Nose
+    100016: //RootNode
+    100018: Hat
+    100020: J_Beard
+    100022: J_Body
+    100024: J_Foot_L
+    100026: J_Foot_R
+    100028: J_Hat
+    100030: J_Hat_Tip
+    100032: J_Head
+    100034: J_Hip
+    100036: J_Leg_L
+    100038: J_Leg_R
+    100040: J_Nose
+    100042: J_Nose_Tip
+    100044: Leg_R
+    100046: Leg_R 1
+    100048: Leg_R1
+    100050: Mesh_Beard
+    100052: Mesh_Belt
+    100054: Mesh_Body
+    100056: Mesh_Hat
+    100058: Mesh_Leg_L
+    100060: Mesh_Nose
+    100062: Nose
+    100064: polySurface7
+    100066: transform2
+    400000: Beard
+    400002: Belt
+    400004: Body
+    400006: CTR_Beard
+    400008: CTR_Hat
+    400010: CTR_Leg_L
+    400012: CTR_Leg_R
+    400014: CTR_Nose
+    400016: //RootNode
+    400018: Hat
+    400020: J_Beard
+    400022: J_Body
+    400024: J_Foot_L
+    400026: J_Foot_R
+    400028: J_Hat
+    400030: J_Hat_Tip
+    400032: J_Head
+    400034: J_Hip
+    400036: J_Leg_L
+    400038: J_Leg_R
+    400040: J_Nose
+    400042: J_Nose_Tip
+    400044: Leg_R
+    400046: Leg_R 1
+    400048: Leg_R1
+    400050: Mesh_Beard
+    400052: Mesh_Belt
+    400054: Mesh_Body
+    400056: Mesh_Hat
+    400058: Mesh_Leg_L
+    400060: Mesh_Nose
+    400062: Nose
+    400064: polySurface7
+    400066: transform2
+    2300000: Mesh_Beard
+    2300002: Mesh_Belt
+    2300004: Mesh_Body
+    2300006: Mesh_Hat
+    2300008: Mesh_Leg_L
+    2300010: Mesh_Nose
+    2300012: polySurface7
+    3300000: Mesh_Beard
+    3300002: Mesh_Belt
+    3300004: Mesh_Body
+    3300006: Mesh_Hat
+    3300008: Mesh_Leg_L
+    3300010: Mesh_Nose
+    3300012: polySurface7
+    4300000: Mesh_Leg_L
+    4300002: polySurface7
+    4300004: Mesh_Nose
+    4300006: Mesh_Hat
+    4300008: Mesh_Body
+    4300010: Mesh_Beard
+    4300012: Mesh_Belt
+    7400000: Idle
+    7400002: Wiggle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: transform2
+        weight: 1
+      - path: transform2/J_Hip
+        weight: 1
+      - path: transform2/J_Hip/Belt
+        weight: 1
+      - path: transform2/J_Hip/Belt/Mesh_Belt
+        weight: 1
+      - path: transform2/J_Hip/Body
+        weight: 1
+      - path: transform2/J_Hip/Body/Mesh_Body
+        weight: 1
+      - path: transform2/J_Hip/CTR_Beard
+        weight: 1
+      - path: transform2/J_Hip/CTR_Beard/J_Beard
+        weight: 1
+      - path: transform2/J_Hip/CTR_Beard/J_Beard/Beard
+        weight: 1
+      - path: transform2/J_Hip/CTR_Beard/J_Beard/Beard/Mesh_Beard
+        weight: 1
+      - path: transform2/J_Hip/J_Body
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat/J_Hat
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat/J_Hat/J_Hat_Tip
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat/J_Hat/J_Hat_Tip/Hat
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat/J_Hat/J_Hat_Tip/Hat/Mesh_Hat
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose/J_Nose
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose/J_Nose/J_Nose_Tip
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose/J_Nose/Nose
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose/J_Nose/Nose/Mesh_Nose
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L/CTR_Leg_L
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L/CTR_Leg_L/J_Foot_L
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L/CTR_Leg_L/Leg_R
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L/CTR_Leg_L/Leg_R/Mesh_Leg_L
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R/J_Foot_R
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R/Leg_R 1
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R/Leg_R1
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R/Leg_R1/polySurface7
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Wiggle
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: transform2
+        weight: 1
+      - path: transform2/J_Hip
+        weight: 1
+      - path: transform2/J_Hip/Belt
+        weight: 1
+      - path: transform2/J_Hip/Belt/Mesh_Belt
+        weight: 1
+      - path: transform2/J_Hip/Body
+        weight: 1
+      - path: transform2/J_Hip/Body/Mesh_Body
+        weight: 1
+      - path: transform2/J_Hip/CTR_Beard
+        weight: 1
+      - path: transform2/J_Hip/CTR_Beard/J_Beard
+        weight: 1
+      - path: transform2/J_Hip/CTR_Beard/J_Beard/Beard
+        weight: 1
+      - path: transform2/J_Hip/CTR_Beard/J_Beard/Beard/Mesh_Beard
+        weight: 1
+      - path: transform2/J_Hip/J_Body
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat/J_Hat
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat/J_Hat/J_Hat_Tip
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat/J_Hat/J_Hat_Tip/Hat
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Hat/J_Hat/J_Hat_Tip/Hat/Mesh_Hat
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose/J_Nose
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose/J_Nose/J_Nose_Tip
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose/J_Nose/Nose
+        weight: 1
+      - path: transform2/J_Hip/J_Body/J_Head/CTR_Nose/J_Nose/Nose/Mesh_Nose
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L/CTR_Leg_L
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L/CTR_Leg_L/J_Foot_L
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L/CTR_Leg_L/Leg_R
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_L/CTR_Leg_L/Leg_R/Mesh_Leg_L
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R/J_Foot_R
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R/Leg_R 1
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R/Leg_R1
+        weight: 1
+      - path: transform2/J_Hip/J_Leg_R/CTR_Leg_R/Leg_R1/polySurface7
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 70
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

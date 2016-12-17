@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 6006ab4300430fa4092f8c10992eff56
+timeCreated: 1480600338
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Rig_Gnome_Dart:Beard
+    100004: Rig_Gnome_Dart:Belt
+    100006: Rig_Gnome_Dart:Body
+    100008: Rig_Gnome_Dart:CTR_Beard
+    100010: Rig_Gnome_Dart:CTR_Brow_L
+    100012: Rig_Gnome_Dart:CTR_Brow_R
+    100014: Rig_Gnome_Dart:CTR_Hat
+    100016: Rig_Gnome_Dart:CTR_Leg_L
+    100018: Rig_Gnome_Dart:CTR_Leg_R
+    100020: Rig_Gnome_Dart:CTR_Nose
+    100022: Rig_Gnome_Dart:CTR_Stach_L
+    100024: Rig_Gnome_Dart:CTR_Stach_R
+    100026: Rig_Gnome_Dart:Hat
+    100028: Rig_Gnome_Dart:J_Beard
+    100030: Rig_Gnome_Dart:J_Body
+    100032: Rig_Gnome_Dart:J_Brow_EndL
+    100034: Rig_Gnome_Dart:J_Brow_EndR
+    100036: Rig_Gnome_Dart:J_Brow_L
+    100038: Rig_Gnome_Dart:J_Brow_R
+    100040: Rig_Gnome_Dart:J_Foot_L
+    100042: Rig_Gnome_Dart:J_Foot_R
+    100044: Rig_Gnome_Dart:J_Hat
+    100046: Rig_Gnome_Dart:J_Hat_Tip
+    100048: Rig_Gnome_Dart:J_Head
+    100050: Rig_Gnome_Dart:J_Hip
+    100052: Rig_Gnome_Dart:J_Leg_L
+    100054: Rig_Gnome_Dart:J_Leg_R
+    100056: Rig_Gnome_Dart:J_Nose
+    100058: Rig_Gnome_Dart:J_Nose_Tip
+    100060: Rig_Gnome_Dart:J_Stach_L
+    100062: Rig_Gnome_Dart:J_Stach_R
+    100064: Rig_Gnome_Dart:J_StachTip_L
+    100066: Rig_Gnome_Dart:J_StachTip_R
+    100068: Rig_Gnome_Dart:Leg_L
+    100070: Rig_Gnome_Dart:Leg_R
+    100072: Rig_Gnome_Dart:Mesh_Beard
+    100074: Rig_Gnome_Dart:Mesh_Body
+    100076: Rig_Gnome_Dart:Mesh_Brow_L
+    100078: Rig_Gnome_Dart:Mesh_Brow_R
+    100080: Rig_Gnome_Dart:Mesh_Hat2
+    100082: Rig_Gnome_Dart:Mesh_Leg_L
+    100084: Rig_Gnome_Dart:Mesh_Leg_R
+    100086: Rig_Gnome_Dart:Mesh_Nose
+    100088: Rig_Gnome_Dart:Mesh_Stach_L
+    100090: Rig_Gnome_Dart:Mesh_Stach_R
+    100092: Rig_Gnome_Dart:Nose
+    100094: Rig_Gnome_Dart:transform2
+    400000: //RootNode
+    400002: Rig_Gnome_Dart:Beard
+    400004: Rig_Gnome_Dart:Belt
+    400006: Rig_Gnome_Dart:Body
+    400008: Rig_Gnome_Dart:CTR_Beard
+    400010: Rig_Gnome_Dart:CTR_Brow_L
+    400012: Rig_Gnome_Dart:CTR_Brow_R
+    400014: Rig_Gnome_Dart:CTR_Hat
+    400016: Rig_Gnome_Dart:CTR_Leg_L
+    400018: Rig_Gnome_Dart:CTR_Leg_R
+    400020: Rig_Gnome_Dart:CTR_Nose
+    400022: Rig_Gnome_Dart:CTR_Stach_L
+    400024: Rig_Gnome_Dart:CTR_Stach_R
+    400026: Rig_Gnome_Dart:Hat
+    400028: Rig_Gnome_Dart:J_Beard
+    400030: Rig_Gnome_Dart:J_Body
+    400032: Rig_Gnome_Dart:J_Brow_EndL
+    400034: Rig_Gnome_Dart:J_Brow_EndR
+    400036: Rig_Gnome_Dart:J_Brow_L
+    400038: Rig_Gnome_Dart:J_Brow_R
+    400040: Rig_Gnome_Dart:J_Foot_L
+    400042: Rig_Gnome_Dart:J_Foot_R
+    400044: Rig_Gnome_Dart:J_Hat
+    400046: Rig_Gnome_Dart:J_Hat_Tip
+    400048: Rig_Gnome_Dart:J_Head
+    400050: Rig_Gnome_Dart:J_Hip
+    400052: Rig_Gnome_Dart:J_Leg_L
+    400054: Rig_Gnome_Dart:J_Leg_R
+    400056: Rig_Gnome_Dart:J_Nose
+    400058: Rig_Gnome_Dart:J_Nose_Tip
+    400060: Rig_Gnome_Dart:J_Stach_L
+    400062: Rig_Gnome_Dart:J_Stach_R
+    400064: Rig_Gnome_Dart:J_StachTip_L
+    400066: Rig_Gnome_Dart:J_StachTip_R
+    400068: Rig_Gnome_Dart:Leg_L
+    400070: Rig_Gnome_Dart:Leg_R
+    400072: Rig_Gnome_Dart:Mesh_Beard
+    400074: Rig_Gnome_Dart:Mesh_Body
+    400076: Rig_Gnome_Dart:Mesh_Brow_L
+    400078: Rig_Gnome_Dart:Mesh_Brow_R
+    400080: Rig_Gnome_Dart:Mesh_Hat2
+    400082: Rig_Gnome_Dart:Mesh_Leg_L
+    400084: Rig_Gnome_Dart:Mesh_Leg_R
+    400086: Rig_Gnome_Dart:Mesh_Nose
+    400088: Rig_Gnome_Dart:Mesh_Stach_L
+    400090: Rig_Gnome_Dart:Mesh_Stach_R
+    400092: Rig_Gnome_Dart:Nose
+    400094: Rig_Gnome_Dart:transform2
+    2300000: Rig_Gnome_Dart:Mesh_Beard
+    2300002: Rig_Gnome_Dart:Mesh_Body
+    2300004: Rig_Gnome_Dart:Mesh_Brow_L
+    2300006: Rig_Gnome_Dart:Mesh_Brow_R
+    2300008: Rig_Gnome_Dart:Mesh_Hat2
+    2300010: Rig_Gnome_Dart:Mesh_Leg_L
+    2300012: Rig_Gnome_Dart:Mesh_Leg_R
+    2300014: Rig_Gnome_Dart:Mesh_Nose
+    2300016: Rig_Gnome_Dart:Mesh_Stach_L
+    2300018: Rig_Gnome_Dart:Mesh_Stach_R
+    3300000: Rig_Gnome_Dart:Mesh_Beard
+    3300002: Rig_Gnome_Dart:Mesh_Body
+    3300004: Rig_Gnome_Dart:Mesh_Brow_L
+    3300006: Rig_Gnome_Dart:Mesh_Brow_R
+    3300008: Rig_Gnome_Dart:Mesh_Hat2
+    3300010: Rig_Gnome_Dart:Mesh_Leg_L
+    3300012: Rig_Gnome_Dart:Mesh_Leg_R
+    3300014: Rig_Gnome_Dart:Mesh_Nose
+    3300016: Rig_Gnome_Dart:Mesh_Stach_L
+    3300018: Rig_Gnome_Dart:Mesh_Stach_R
+    4300000: Rig_Gnome_Dart:Mesh_Leg_L
+    4300002: Rig_Gnome_Dart:Mesh_Leg_R
+    4300004: Rig_Gnome_Dart:Mesh_Nose
+    4300006: Rig_Gnome_Dart:Mesh_Hat2
+    4300008: Rig_Gnome_Dart:Mesh_Brow_L
+    4300010: Rig_Gnome_Dart:Mesh_Brow_R
+    4300012: Rig_Gnome_Dart:Mesh_Beard
+    4300014: Rig_Gnome_Dart:Mesh_Stach_R
+    4300016: Rig_Gnome_Dart:Mesh_Stach_L
+    4300018: Rig_Gnome_Dart:Mesh_Body
+    7400000: Idle
+    7400002: Wiggle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:Belt
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:Body
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:Beard
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:Beard/Rig_Gnome_Dart:Mesh_Beard
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_L/Rig_Gnome_Dart:CTR_Stach_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_L/Rig_Gnome_Dart:CTR_Stach_L/Rig_Gnome_Dart:J_StachTip_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_L/Rig_Gnome_Dart:CTR_Stach_L/Rig_Gnome_Dart:J_StachTip_L/Rig_Gnome_Dart:Mesh_Stach_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_R/Rig_Gnome_Dart:CTR_Stach_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_R/Rig_Gnome_Dart:CTR_Stach_R/Rig_Gnome_Dart:J_StachTip_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_R/Rig_Gnome_Dart:CTR_Stach_R/Rig_Gnome_Dart:J_StachTip_R/Rig_Gnome_Dart:Mesh_Stach_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_L/Rig_Gnome_Dart:J_Brow_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_L/Rig_Gnome_Dart:J_Brow_L/Rig_Gnome_Dart:J_Brow_EndL
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_L/Rig_Gnome_Dart:J_Brow_L/Rig_Gnome_Dart:Mesh_Brow_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_R/Rig_Gnome_Dart:J_Brow_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_R/Rig_Gnome_Dart:J_Brow_R/Rig_Gnome_Dart:J_Brow_EndR
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_R/Rig_Gnome_Dart:J_Brow_R/Rig_Gnome_Dart:Mesh_Brow_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat/Rig_Gnome_Dart:J_Hat
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat/Rig_Gnome_Dart:J_Hat/Rig_Gnome_Dart:J_Hat_Tip
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat/Rig_Gnome_Dart:J_Hat/Rig_Gnome_Dart:J_Hat_Tip/Rig_Gnome_Dart:Hat
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat/Rig_Gnome_Dart:J_Hat/Rig_Gnome_Dart:J_Hat_Tip/Rig_Gnome_Dart:Hat/Rig_Gnome_Dart:Mesh_Hat2
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose/Rig_Gnome_Dart:J_Nose
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose/Rig_Gnome_Dart:J_Nose/Rig_Gnome_Dart:J_Nose_Tip
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose/Rig_Gnome_Dart:J_Nose/Rig_Gnome_Dart:Nose
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose/Rig_Gnome_Dart:J_Nose/Rig_Gnome_Dart:Nose/Rig_Gnome_Dart:Mesh_Nose
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L/Rig_Gnome_Dart:CTR_Leg_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L/Rig_Gnome_Dart:CTR_Leg_L/Rig_Gnome_Dart:J_Foot_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L/Rig_Gnome_Dart:CTR_Leg_L/Rig_Gnome_Dart:Leg_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L/Rig_Gnome_Dart:CTR_Leg_L/Rig_Gnome_Dart:Leg_L/Rig_Gnome_Dart:Mesh_Leg_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R/Rig_Gnome_Dart:CTR_Leg_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R/Rig_Gnome_Dart:CTR_Leg_R/Rig_Gnome_Dart:J_Foot_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R/Rig_Gnome_Dart:CTR_Leg_R/Rig_Gnome_Dart:Leg_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R/Rig_Gnome_Dart:CTR_Leg_R/Rig_Gnome_Dart:Leg_R/Rig_Gnome_Dart:Mesh_Leg_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:Mesh_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Wiggle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:Belt
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:Body
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:Beard
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:Beard/Rig_Gnome_Dart:Mesh_Beard
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_L/Rig_Gnome_Dart:CTR_Stach_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_L/Rig_Gnome_Dart:CTR_Stach_L/Rig_Gnome_Dart:J_StachTip_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_L/Rig_Gnome_Dart:CTR_Stach_L/Rig_Gnome_Dart:J_StachTip_L/Rig_Gnome_Dart:Mesh_Stach_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_R/Rig_Gnome_Dart:CTR_Stach_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_R/Rig_Gnome_Dart:CTR_Stach_R/Rig_Gnome_Dart:J_StachTip_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:CTR_Beard/Rig_Gnome_Dart:J_Beard/Rig_Gnome_Dart:J_Stach_R/Rig_Gnome_Dart:CTR_Stach_R/Rig_Gnome_Dart:J_StachTip_R/Rig_Gnome_Dart:Mesh_Stach_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_L/Rig_Gnome_Dart:J_Brow_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_L/Rig_Gnome_Dart:J_Brow_L/Rig_Gnome_Dart:J_Brow_EndL
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_L/Rig_Gnome_Dart:J_Brow_L/Rig_Gnome_Dart:Mesh_Brow_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_R/Rig_Gnome_Dart:J_Brow_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_R/Rig_Gnome_Dart:J_Brow_R/Rig_Gnome_Dart:J_Brow_EndR
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Brow_R/Rig_Gnome_Dart:J_Brow_R/Rig_Gnome_Dart:Mesh_Brow_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat/Rig_Gnome_Dart:J_Hat
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat/Rig_Gnome_Dart:J_Hat/Rig_Gnome_Dart:J_Hat_Tip
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat/Rig_Gnome_Dart:J_Hat/Rig_Gnome_Dart:J_Hat_Tip/Rig_Gnome_Dart:Hat
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Hat/Rig_Gnome_Dart:J_Hat/Rig_Gnome_Dart:J_Hat_Tip/Rig_Gnome_Dart:Hat/Rig_Gnome_Dart:Mesh_Hat2
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose/Rig_Gnome_Dart:J_Nose
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose/Rig_Gnome_Dart:J_Nose/Rig_Gnome_Dart:J_Nose_Tip
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose/Rig_Gnome_Dart:J_Nose/Rig_Gnome_Dart:Nose
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Body/Rig_Gnome_Dart:J_Head/Rig_Gnome_Dart:CTR_Nose/Rig_Gnome_Dart:J_Nose/Rig_Gnome_Dart:Nose/Rig_Gnome_Dart:Mesh_Nose
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L/Rig_Gnome_Dart:CTR_Leg_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L/Rig_Gnome_Dart:CTR_Leg_L/Rig_Gnome_Dart:J_Foot_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L/Rig_Gnome_Dart:CTR_Leg_L/Rig_Gnome_Dart:Leg_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_L/Rig_Gnome_Dart:CTR_Leg_L/Rig_Gnome_Dart:Leg_L/Rig_Gnome_Dart:Mesh_Leg_L
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R/Rig_Gnome_Dart:CTR_Leg_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R/Rig_Gnome_Dart:CTR_Leg_R/Rig_Gnome_Dart:J_Foot_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R/Rig_Gnome_Dart:CTR_Leg_R/Rig_Gnome_Dart:Leg_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:J_Hip/Rig_Gnome_Dart:J_Leg_R/Rig_Gnome_Dart:CTR_Leg_R/Rig_Gnome_Dart:Leg_R/Rig_Gnome_Dart:Mesh_Leg_R
+        weight: 1
+      - path: Rig_Gnome_Dart:transform2/Rig_Gnome_Dart:Mesh_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 60
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: cea9b14561265544c9830d10771171c9
+timeCreated: 1479219879
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: NormGnome_AnimIdle:Beard
+    100004: NormGnome_AnimIdle:Belt
+    100006: NormGnome_AnimIdle:Body
+    100008: NormGnome_AnimIdle:CTR_Beard
+    100010: NormGnome_AnimIdle:CTR_Hat
+    100012: NormGnome_AnimIdle:CTR_Leg_L
+    100014: NormGnome_AnimIdle:CTR_Leg_R
+    100016: NormGnome_AnimIdle:CTR_Nose
+    100018: NormGnome_AnimIdle:CTR_World
+    100020: NormGnome_AnimIdle:Hat
+    100022: NormGnome_AnimIdle:J_Beard
+    100024: NormGnome_AnimIdle:J_Body
+    100026: NormGnome_AnimIdle:J_Foot_L
+    100028: NormGnome_AnimIdle:J_Foot_R
+    100030: NormGnome_AnimIdle:J_Hat
+    100032: NormGnome_AnimIdle:J_Hat_Tip
+    100034: NormGnome_AnimIdle:J_Head
+    100036: NormGnome_AnimIdle:J_Hip
+    100038: NormGnome_AnimIdle:J_Leg_L
+    100040: NormGnome_AnimIdle:J_Leg_R
+    100042: NormGnome_AnimIdle:J_Nose
+    100044: NormGnome_AnimIdle:J_Nose_Tip
+    100046: NormGnome_AnimIdle:Leg_R
+    100048: NormGnome_AnimIdle:Leg_R 1
+    100050: NormGnome_AnimIdle:Leg_R1
+    100052: NormGnome_AnimIdle:Mesh_Beard
+    100054: NormGnome_AnimIdle:Mesh_Belt
+    100056: NormGnome_AnimIdle:Mesh_Body
+    100058: NormGnome_AnimIdle:Mesh_Hat
+    100060: NormGnome_AnimIdle:Mesh_Leg_L
+    100062: NormGnome_AnimIdle:Mesh_Nose
+    100064: NormGnome_AnimIdle:Mesh_OBJ_GnomeNorm:polySurface1
+    100066: NormGnome_AnimIdle:Nose
+    100068: NormGnome_AnimIdle:persp1
+    100070: NormGnome_AnimIdle:polySurface7
+    100072: NormGnome_AnimIdle:transform1
+    100074: NormGnome_AnimIdle:transform2
+    400000: //RootNode
+    400002: NormGnome_AnimIdle:Beard
+    400004: NormGnome_AnimIdle:Belt
+    400006: NormGnome_AnimIdle:Body
+    400008: NormGnome_AnimIdle:CTR_Beard
+    400010: NormGnome_AnimIdle:CTR_Hat
+    400012: NormGnome_AnimIdle:CTR_Leg_L
+    400014: NormGnome_AnimIdle:CTR_Leg_R
+    400016: NormGnome_AnimIdle:CTR_Nose
+    400018: NormGnome_AnimIdle:CTR_World
+    400020: NormGnome_AnimIdle:Hat
+    400022: NormGnome_AnimIdle:J_Beard
+    400024: NormGnome_AnimIdle:J_Body
+    400026: NormGnome_AnimIdle:J_Foot_L
+    400028: NormGnome_AnimIdle:J_Foot_R
+    400030: NormGnome_AnimIdle:J_Hat
+    400032: NormGnome_AnimIdle:J_Hat_Tip
+    400034: NormGnome_AnimIdle:J_Head
+    400036: NormGnome_AnimIdle:J_Hip
+    400038: NormGnome_AnimIdle:J_Leg_L
+    400040: NormGnome_AnimIdle:J_Leg_R
+    400042: NormGnome_AnimIdle:J_Nose
+    400044: NormGnome_AnimIdle:J_Nose_Tip
+    400046: NormGnome_AnimIdle:Leg_R
+    400048: NormGnome_AnimIdle:Leg_R 1
+    400050: NormGnome_AnimIdle:Leg_R1
+    400052: NormGnome_AnimIdle:Mesh_Beard
+    400054: NormGnome_AnimIdle:Mesh_Belt
+    400056: NormGnome_AnimIdle:Mesh_Body
+    400058: NormGnome_AnimIdle:Mesh_Hat
+    400060: NormGnome_AnimIdle:Mesh_Leg_L
+    400062: NormGnome_AnimIdle:Mesh_Nose
+    400064: NormGnome_AnimIdle:Mesh_OBJ_GnomeNorm:polySurface1
+    400066: NormGnome_AnimIdle:Nose
+    400068: NormGnome_AnimIdle:persp1
+    400070: NormGnome_AnimIdle:polySurface7
+    400072: NormGnome_AnimIdle:transform1
+    400074: NormGnome_AnimIdle:transform2
+    2300000: NormGnome_AnimIdle:Mesh_Beard
+    2300002: NormGnome_AnimIdle:Mesh_Belt
+    2300004: NormGnome_AnimIdle:Mesh_Body
+    2300006: NormGnome_AnimIdle:Mesh_Hat
+    2300008: NormGnome_AnimIdle:Mesh_Leg_L
+    2300010: NormGnome_AnimIdle:Mesh_Nose
+    2300012: NormGnome_AnimIdle:polySurface7
+    3300000: NormGnome_AnimIdle:Mesh_Beard
+    3300002: NormGnome_AnimIdle:Mesh_Belt
+    3300004: NormGnome_AnimIdle:Mesh_Body
+    3300006: NormGnome_AnimIdle:Mesh_Hat
+    3300008: NormGnome_AnimIdle:Mesh_Leg_L
+    3300010: NormGnome_AnimIdle:Mesh_Nose
+    3300012: NormGnome_AnimIdle:polySurface7
+    4300000: NormGnome_AnimIdle:Mesh_Leg_L
+    4300002: NormGnome_AnimIdle:polySurface7
+    4300004: NormGnome_AnimIdle:Mesh_Nose
+    4300006: NormGnome_AnimIdle:Mesh_Hat
+    4300008: NormGnome_AnimIdle:Mesh_Body
+    4300010: NormGnome_AnimIdle:Mesh_Beard
+    4300012: NormGnome_AnimIdle:Mesh_Belt
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

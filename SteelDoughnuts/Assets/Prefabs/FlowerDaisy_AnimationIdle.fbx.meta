@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: bc252841c55e6114ba0e45babaee5dfa
+timeCreated: 1481165534
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base
+    100004: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_End
+    100006: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_Mid
+    100008: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_Tip
+    100010: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Leaf1
+    100012: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Leaf2
+    100014: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1
+    100016: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface2
+    100018: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface3
+    100020: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface4
+    100022: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface5
+    100024: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface6
+    100026: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface7
+    100028: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_End
+    100030: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_Mid
+    100032: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_Tip
+    100034: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1
+    100036: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_2
+    100038: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_3
+    100040: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_4
+    100042: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_5
+    100044: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_Top
+    100046: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:transform1
+    100048: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:transform2
+    100050: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:transform3
+    400000: //RootNode
+    400002: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base
+    400004: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_End
+    400006: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_Mid
+    400008: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_Tip
+    400010: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Leaf1
+    400012: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Leaf2
+    400014: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1
+    400016: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface2
+    400018: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface3
+    400020: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface4
+    400022: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface5
+    400024: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface6
+    400026: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface7
+    400028: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_End
+    400030: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_Mid
+    400032: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_Tip
+    400034: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1
+    400036: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_2
+    400038: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_3
+    400040: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_4
+    400042: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_5
+    400044: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_Top
+    400046: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:transform1
+    400048: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:transform2
+    400050: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:transform3
+    4300000: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface2
+    4300002: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface4
+    4300004: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface6
+    4300006: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface7
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface2
+    13700002: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface4
+    13700004: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface6
+    13700006: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_Mid
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_Mid/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_End
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_Mid/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_End/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:L_Leaf_Tip
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_Mid
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_Mid/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_End
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_Mid/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_End/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:R_Leaf_Tip
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_2
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_2/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_3
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_2/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Leaf1
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_2/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Leaf2
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_2/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_4
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_2/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_4/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_5
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Base/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_2/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_4/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_5/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Stem_Top
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface2
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface3
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface4
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface5
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface5/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface6
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface5/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface7
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface5/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:transform3
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:polySurface3/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:transform2
+        weight: 1
+      - path: FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:Mesh_OBJ_FanFlower_UV:polySurface1/FlowerDandelion_AnimationIdle:FlowerDaisy_AnimationIdle:Daisy_Rig:transform1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 12
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
